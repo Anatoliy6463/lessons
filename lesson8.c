@@ -24,6 +24,6 @@ int main()
     {
         printf("%d", n[i]);
     }
-    puts('\n');
+    puts("\n");
     return (0);
 }
